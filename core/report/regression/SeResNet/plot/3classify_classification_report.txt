@@ -1,0 +1,11 @@
+--- 3-Class Classification Report ---
+
+              precision    recall  f1-score   support
+
+        COPD       0.81      0.91      0.86       240
+      NORMAL       0.62      0.63      0.63        52
+       PRISm       0.67      0.29      0.40        56
+
+    accuracy                           0.77       348
+   macro avg       0.70      0.61      0.63       348
+weighted avg       0.76      0.77      0.75       348

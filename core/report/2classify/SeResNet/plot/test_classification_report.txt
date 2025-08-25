@@ -1,0 +1,10 @@
+--- Test Set Classification Report ---
+
+              precision    recall  f1-score   support
+
+        COPD       0.78      0.80      0.79       240
+    Non-COPD       0.53      0.49      0.51       108
+
+    accuracy                           0.71       348
+   macro avg       0.65      0.65      0.65       348
+weighted avg       0.70      0.71      0.70       348

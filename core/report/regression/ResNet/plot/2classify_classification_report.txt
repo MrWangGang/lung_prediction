@@ -1,0 +1,10 @@
+--- 2-Class Classification Report ---
+
+              precision    recall  f1-score   support
+
+    Non-COPD       0.75      0.51      0.61       108
+        COPD       0.81      0.93      0.86       240
+
+    accuracy                           0.80       348
+   macro avg       0.78      0.72      0.73       348
+weighted avg       0.79      0.80      0.78       348

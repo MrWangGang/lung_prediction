@@ -1,0 +1,18 @@
+--- Regression Metrics on Test Set ---
+
+  FVC:
+    r (Pearson Correlation): 0.7751
+    r2 (Coefficient of Determination): 0.6006
+    ccc (Concordance Correlation Coefficient): 0.7523
+    rmse (Root Mean Squared Error): 0.4707
+    mse (Mean Squared Error): 0.2216
+    mae (Mean Absolute Error): 0.3688
+
+  FEV1:
+    r (Pearson Correlation): 0.7885
+    r2 (Coefficient of Determination): 0.6167
+    ccc (Concordance Correlation Coefficient): 0.7737
+    rmse (Root Mean Squared Error): 0.4127
+    mse (Mean Squared Error): 0.1703
+    mae (Mean Absolute Error): 0.3269
+

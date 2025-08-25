@@ -1,0 +1,26 @@
+--- Test Set Classification Report ---
+
+              precision    recall  f1-score   support
+
+        COPD       0.80      0.83      0.82       240
+    Non-COPD       0.59      0.54      0.56       108
+
+    accuracy                           0.74       348
+   macro avg       0.70      0.69      0.69       348
+weighted avg       0.74      0.74      0.74       348
+
+
+--- Test Set Regression Metrics (on normalized values) ---
+Mean Absolute Error (MAE): 0.5490
+Root Mean Squared Error (RMSE): 0.6884
+
+
+--- Test Set Regression Metrics (on original values) ---
+
+FEV1:
+  MAE: 0.39
+  RMSE: 0.50
+
+FVC:
+  MAE: 0.43
+  RMSE: 0.54

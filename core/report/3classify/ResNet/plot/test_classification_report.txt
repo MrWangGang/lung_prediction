@@ -1,0 +1,11 @@
+--- Test Set Classification Report ---
+
+              precision    recall  f1-score   support
+
+        COPD       0.83      0.92      0.88       240
+      NORMAL       0.67      0.60      0.63        52
+       PRISm       0.68      0.45      0.54        56
+
+    accuracy                           0.80       348
+   macro avg       0.73      0.65      0.68       348
+weighted avg       0.78      0.80      0.78       348
