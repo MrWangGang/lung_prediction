@@ -1,4 +1,4 @@
-# lung_prediction
+# 肺功能指标预测与慢阻肺疾病分类
 # 因数据集涉及到隐私,如需要请联系wanggang userbean@outlook.com
 
 原数据集是380GB，包含2704个病人的CT影像，csv数据中具有：
