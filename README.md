@@ -30,6 +30,12 @@ FEV1,FVC,FEV1/FVC,FEV1%,FVC%
   - 2分类任务：COPD，NORMAL
 
 每种模型用3种不同的骨干网络，总共15个模型，用于消融实验和对比。
+<img width="2086" height="942" alt="image" src="https://github.com/user-attachments/assets/fd99abb1-3652-44fc-9aff-399309ee3a02" />
+<img width="1810" height="1062" alt="image" src="https://github.com/user-attachments/assets/ec503e10-70a0-459e-9a6e-c0b5de78917e" />
+<img width="1824" height="1224" alt="image" src="https://github.com/user-attachments/assets/e6849423-417e-472c-bcd9-50f6d810a1f0" />
+<img width="1000" height="800" alt="test_roc_curve" src="https://github.com/user-attachments/assets/c513bd16-38c6-4ceb-9efa-91e91941e7b2" />
+<img width="1000" height="800" alt="test_roc_curve (1)" src="https://github.com/user-attachments/assets/dfcd8b03-b59a-4428-8d1b-f453594d54b8" />
+
 
 所有的模型都是基于以下架构，无非是最后是回归头或者分类头。
 ```
