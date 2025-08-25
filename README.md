@@ -1,0 +1,2 @@
+# lung_prediction
+使用3DCNN实现 CT影像结合统计学数据 预测肺功能指标对COPD慢性阻塞肺病进行分类和预测
