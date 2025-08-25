@@ -1,15 +1,7 @@
 # lung_prediction
 原数据集是380GB，包含2704个病人的CT影像，csv数据中具有：
-- 身高
-- 体重
-- 性别
-- 年龄
-- 吸烟史
-- FEV1
-- FVC
-- FEV1/FVC
-- FEV1%
-- FVC%
+身高,体重,性别,年龄,吸烟史
+FEV1,FVC,FEV1/FVC,FEV1%,FVC%
 
 本实例使用3DCNN实现CT影像结合统计学数据，预测肺功能指标并对COPD慢性阻塞肺病进行分类和预测。
 
