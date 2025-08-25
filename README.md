@@ -1,4 +1,6 @@
 # lung_prediction
+# 因数据集涉及到隐私,github不允许上传超过100mb的文件所以模型的权重以及数据集在此仓库中不提供,如需要请联系 userbean@outlook.com - wanggang
+
 原数据集是380GB，包含2704个病人的CT影像，csv数据中具有：
 身高,体重,性别,年龄,吸烟史
 FEV1,FVC,FEV1/FVC,FEV1%,FVC%
